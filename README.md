@@ -1,3 +1,3 @@
 # WG13InformationModel
-Issue tracking for UCAig WG13 Energy Model Requirement UML Development
+Issue tracking for UCAig WG13 Information Model Requirement UML Development
 
